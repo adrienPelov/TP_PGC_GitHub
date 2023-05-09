@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/Levels/Level_Test.umap",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/SBP_PillarGenerator.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Materials/M_Pillar_Base.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Materials/M_Pillar_Mid.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Materials/M_Pillar_Top.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Meshes/SM_Pillar_Base.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Meshes/SM_Pillar_Mid.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Meshes/SM_Pillar_Top.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/SBP_PillarGenerator_BASE.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Base/SBP_PillarGenerator_BASE.uasset"
+			]
+		}
+	]
+}
