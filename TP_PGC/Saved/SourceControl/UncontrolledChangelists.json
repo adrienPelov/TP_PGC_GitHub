@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC_Depot/TP_PGC_GitHub/TP_PGC/Content/PillarGenerator/_Base/SBP_PillarGenerator_BASE.uasset",
+				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC_Depot/TP_PGC_GitHub/TP_PGC/Content/Levels/Level_Test.umap",
 				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/Levels/Level_Test.umap",
 				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/SBP_PillarGenerator.uasset",
 				"E:/_JV/_Cours/_SupCrea/2023/TP_PGC/Content/PillarGenerator/_Materials/M_Pillar_Base.uasset",
